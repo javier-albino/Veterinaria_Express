@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Michi2 ",
+    "tipo": "Gato2",
+    "raza": "Siames",
+    "edad": 11,
+    "id": 5
+  },
+  {
+    "nombre": "Claudio Aranguis",
+    "tipo": "perro",
+    "raza": "cobrador de pelo liso",
+    "edad": 12,
+    "id": 6
+  },
+  {
+    "nombre": "reina 5",
+    "tipo": "perro",
+    "raza": "cobrador de pelo liso",
+    "edad": 32,
+    "id": 7
+  }
+]
